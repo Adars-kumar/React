@@ -15,3 +15,10 @@
 >### 1. Learned about Hooks and created a counter App.
 >### 2. Learned about Virtual DOM, Fibre, Reconiliation
 > Doumentaion Link: https://github.com/acdlite/react-fiber-architecture
+
+### __Day04__
+>### 1. Created a card using Tailwind
+>### 2. Adding some props in Tailwind Card project
+> Card compoonets: https://www.devui.in/components/card
+
+### __Day05__
