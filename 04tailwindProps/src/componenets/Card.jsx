@@ -19,7 +19,7 @@ function Card({username, btnText="visit me"}) {
             tempora ipsum soluta amet corporis accusantium aliquid consectetur
             eaque!
           </p>
-        </div>
+        </div> 
         <button
           type="button"
           className="flex items-center justify-center w-full p-3 font-semibold tracking-wide rounded-md bg-gray-800 text-gray-200"
